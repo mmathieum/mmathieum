@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm an Android Developer based in Montréal, Canada.
+
+I've published [my 1st open-souce Android app](https://github.com/mmathieum/montrealtransit-for-android) in 2010.
+
+After [rebooting the project](https://github.com/mtransitapps) in 2014, I'm still working it!
+
 <!--
 **mmathieum/mmathieum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
