@@ -4,7 +4,7 @@ I'm an Android Developer based in Montréal, Canada.
 
 I've published [my 1st open-souce Android app](https://github.com/mmathieum/montrealtransit-for-android) in 2010.
 
-After [rebooting the project](https://github.com/mtransitapps) in 2014, I'm still working it!
+After [rebooting the project](https://github.com/mtransitapps) in 2014, I'm still working on it!
 
 The app has been downloaded 500k+ times and is frequently in the top 10 of [Maps & Navigation](https://play.google.com/store/apps/category/MAPS_AND_NAVIGATION) apps in Canada.
 
