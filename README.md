@@ -6,7 +6,7 @@ I've published [my 1st open-souce Android app](https://github.com/mmathieum/mont
 
 After [rebooting the project](https://github.com/mtransitapps)🔄 in 2014, I'm still working on it!
 
-The app is rated 4.5 stars⭐ has been downloaded⬇️ 1M+ times and is frequently in the top 10🏆 of [Maps & Navigation](https://play.google.com/store/apps/category/MAPS_AND_NAVIGATION) apps in Canada🇨🇦.
+The [app](https://play.google.com/store/apps/details?id=org.mtransit.android) is rated 4.5 stars⭐, has been downloaded⬇️ 1M+ times and is frequently in the top 10🏆 of [Maps & Navigation](https://play.google.com/store/apps/category/MAPS_AND_NAVIGATION) apps in Canada🇨🇦.
 
 <!--
 **mmathieum/mmathieum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
