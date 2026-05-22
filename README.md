@@ -8,6 +8,12 @@ After [rebooting the project](https://github.com/mtransitapps)🔄 in 2014, I'm 
 
 The [app](https://play.google.com/store/apps/details?id=org.mtransit.android) is rated 4.5 stars⭐, has been downloaded⬇️ 1M+ times and is frequently in the top 10🏆 of [Maps & Navigation](https://play.google.com/store/apps/category/MAPS_AND_NAVIGATION) apps in Canada🇨🇦.
 
+-----
+
+💼 [Jobs](https://www.linkedin.com/in/mmathieum/): 🏅@ScoreMedia/@ScoreBet/@PennEnt, 🧠@Google-DeeMmind @Google🇨🇦, 💳@Mobeewave, 🌥️The Weather Network/@Pelmorex, 🚕@TeoTechno/@Taxelco, 📰@LaPresse, 📈EMC @Dell Watch4Net, 🛫@Airbus/EADS
+
+🧑‍🎓 Education: @SUPINFO, Université de Toulouse
+
 <!--
 **mmathieum/mmathieum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
