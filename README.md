@@ -10,7 +10,7 @@ The [app](https://play.google.com/store/apps/details?id=org.mtransit.android) is
 
 -----
 
-💼 [Jobs](https://www.linkedin.com/in/mmathieum/): 🏅@ScoreMedia/@ScoreBet/@PennEnt, 🧠@Google-DeeMmind @Google🇨🇦, 💳@Mobeewave, 🌥️The Weather Network/@Pelmorex, 🚕@TeoTechno/@Taxelco, 📰@LaPresse, 📈EMC @Dell Watch4Net, 🛫@Airbus/EADS
+💼 [Jobs](https://www.linkedin.com/in/mmathieum/): 🏅@ScoreMedia/@ScoreBet/@PennEnt, 🧠@Google-DeeMmind @Google🇨🇦, 💳@Mobeewave/@Samsung/@GlobalPayments, 🌥️The Weather Network/@Pelmorex, 🚕@TeoTechno/@Taxelco, 📰@LaPresse, 📈EMC/@Dell/Watch4Net, 🛫@Airbus/EADS
 
 🧑‍🎓 Education: @SUPINFO, Université de Toulouse
 
