@@ -10,9 +10,17 @@ The [app](https://play.google.com/store/apps/details?id=org.mtransit.android) is
 
 -----
 
-💼 [Jobs](https://www.linkedin.com/in/mmathieum/): 🏅@ScoreMedia/@ScoreBet/@PennEnt, 🧠@Google-DeeMmind @Google🇨🇦, 💳@Mobeewave/@Samsung/@GlobalPayments, 🌥️The Weather Network/@Pelmorex, 🚕@TeoTechno/@Taxelco, 📰@LaPresse, 📈EMC/@Dell/Watch4Net, 🛫@Airbus/EADS
+💼 [Jobs](https://www.linkedin.com/in/mmathieum/):
+- 2023-2025: 🏅@ScoreMedia/@ScoreBet/@PennEnt
+- 2019-2020: 🧠@Google-DeeMmind @Google🇨🇦
+- 2018-2019: 💳@Mobeewave/@Samsung/@GlobalPayments
+- 2017-2018: 🌥️The Weather Network/@Pelmorex
+- 2016-2017: 🚕@TeoTechno/@Taxelco
+- 2013-2014: 📰@LaPresse
+- 2008-2013: 📈EMC/@Dell/Watch4Net
+- 2006-2007: 🛫@Airbus/EADS
 
-🧑‍🎓 Education: @SUPINFO, Université de Toulouse
+🧑‍🎓 Education: @SUPINFO (2006-2009), Université de Toulouse (2003-2006)
 
 <!--
 **mmathieum/mmathieum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
